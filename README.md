@@ -4,7 +4,7 @@
 
 - :dart: Trabalho como desenvolvedor
 - :iphone: Whatsapp: (61) 99374-5875
-- :man_technologist: Estudo Laravel, Vuejs, API entre outras tecnologias
+- :man_technologist: Estudo Laravel, Vuejs entre outras tecnologias
 
 ### Tecnologias e Ferramentas
 
